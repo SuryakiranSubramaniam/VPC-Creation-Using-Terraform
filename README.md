@@ -3,7 +3,7 @@ VPC-Creation-Using-Terraform
 
 ## Description
 
-Creating a VPC through Terraform module
+Creating a VPC through Terraform. We are creating a terraform VPC module.
 
 ### Vpc Module Creation
 
